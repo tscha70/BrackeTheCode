@@ -5,3 +5,6 @@ In this game you are a burglar and have to repeat the code to open the safe and 
 It gets harder and harder as you move up the career ladder, but eventually you will be rewarded.
 Bitmaps/Break_the_code.bmp
 
+![image](https://github.com/tscha70/BrakeTheCode/assets/16398620/1462f433-5bfb-4412-be22-9b9b6dbd8709)
+
+
