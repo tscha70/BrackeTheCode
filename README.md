@@ -7,7 +7,7 @@ It gets harder and harder as you move up the career ladder, but eventually you w
 ![image](https://github.com/tscha70/BrakeTheCode/assets/16398620/1462f433-5bfb-4412-be22-9b9b6dbd8709)
 
 <img src="https://github.com/tscha70/BreakeTheCode/assets/16398620/4c0b4aa0-eed6-4b11-91bf-1770775b5b81" width=128>
-
+<p></p>
 <img src="https://github.com/tscha70/BreakeTheCode/assets/16398620/02e1e2a2-cd26-418f-9394-35baf15d146c" width=128>
 
 
