@@ -8,6 +8,8 @@ It gets harder and harder as you move up the career ladder, but eventually you w
 
 <img src="https://github.com/tscha70/BreakeTheCode/assets/16398620/4c0b4aa0-eed6-4b11-91bf-1770775b5b81" width=128>
 
+![image](https://github.com/tscha70/BreakeTheCode/assets/16398620/02e1e2a2-cd26-418f-9394-35baf15d146c)
+
 
 EEPROM: 348 - 350
 
