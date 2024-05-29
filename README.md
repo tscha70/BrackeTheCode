@@ -16,5 +16,5 @@ It gets harder and harder as you move up the career ladder, but eventually you w
 
 
 
-EEPROM: 348 - 350
+EEPROM: 348+16 - 350+16 == 364 - 366
 
