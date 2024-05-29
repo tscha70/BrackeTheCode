@@ -6,4 +6,5 @@ It gets harder and harder as you move up the career ladder, but eventually you w
 
 ![image](https://github.com/tscha70/BrakeTheCode/assets/16398620/1462f433-5bfb-4412-be22-9b9b6dbd8709)
 
+EEPROM: 348 - 350
 
