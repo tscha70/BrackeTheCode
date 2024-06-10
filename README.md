@@ -1,5 +1,5 @@
-# Breake The Code
-Breake The Code is a new game for the Arduboy, based on the well-known ‘Simon’ or ‘Senso’ (https://de.wikipedia.org/wiki/Senso_(Spiel)), in which the player has to follow a sequence of sounds and colours.
+# Break The Code
+"Break The Code" is a new game for the Arduboy, based on the well-known ‘Simon’ or ‘Senso’ (https://de.wikipedia.org/wiki/Senso_(Spiel)), in which the player has to follow a sequence of sounds and colours.
 It was also know as "Touch Me" as an arcade game released in 1974 by Atari. (https://en.wikipedia.org/wiki/Touch_Me_(arcade_game))
 
 In this game you are a burglar and have to repeat the code to open the safe and get hold of the treasure inside.
